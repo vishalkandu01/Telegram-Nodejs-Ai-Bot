@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/vishalkandu01/Telegram-Nodejs-Ai-Bot#readme",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "node-telegram-bot-api": "^0.61.0",
     "openai": "^4.5.0"
   }
